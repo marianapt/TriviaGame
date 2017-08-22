@@ -24,7 +24,7 @@ var questions = [{
   question: "What does the N stand for in NATO?",
   answers: ["NO", "North", "Near", "No Doubt"],
   correctAnswer: "North",
-  image: "assets/img/trivia4.jpeg"
+  image: "assets/img/trivia4.png"
 }, {
   question: "What is another word for lexicon?",
   answers: ["vehicle", "expidition", "comicon", "Axile"],
@@ -32,7 +32,7 @@ var questions = [{
   image: "assets/img/trivia5.jpeg"
 }, {
   question: "Name the seventh planet from the sun?",
-  answers: ["Jupiter", "Mars","Uranus", "Pluto",
+  answers: ["Jupiter", "Mars","Uranus", "Pluto"],
   correctAnswer: "Uranus",
   image: "assets/img/trivia6.jpeg"
 }, {
