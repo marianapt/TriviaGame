@@ -1,5 +1,5 @@
 
-body {olor: grey;
+body {color: grey;
   font-size: 25px;
   height: 100%;
 }
@@ -18,7 +18,8 @@ body { color: grey;
   background-color: transparent;
 }
 
-#sub-wrapper {
+#sub-wrapper {color: grey;
+  font-size: 25px;
   position: relative;
   top: 15%;
 }
@@ -38,7 +39,8 @@ img {
   height: 200px;
 }
 
-h1 {
+h1 {color: grey;
+  font-size: 25px;
   padding-top: 2.5%;
   font-family: Geo, sans-serif;
   font-size: 6.5em;
@@ -46,7 +48,8 @@ h1 {
   color: blue;
 }
 
-h2 {
+h2 {color: grey;
+  font-size: 25px;
   margin-bottom: 25px;
   font-size: 35px;
 }
